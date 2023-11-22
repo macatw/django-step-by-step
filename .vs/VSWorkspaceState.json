@@ -1,0 +1,9 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\.github\\workflows"
+  ],
+  "SelectedNode": "\\.github\\workflows\\ecr_backend_nginx.yml",
+  "PreviewInSolutionExplorer": false
+}

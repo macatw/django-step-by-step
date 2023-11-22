@@ -1,0 +1,13 @@
+.local-env/
+.coverage
+htmlcov
+node_modules
+notes
+.env
+cdk.out
+.raspberrypi.env
+cdk.context.json
+
+# Redis .rdb files
+*.rdb
+
