@@ -4,7 +4,8 @@ ENV VERSION=$VERSION
 WORKDIR /app/
 COPY quasar-app/package.json /app/
 RUN npm cache verify
-RUN npm rebuild node-sass
+RUN npm i -D sass
+RUN npm install
 RUN npm install -g @quasar/cli
 RUN npm install --progress=false
 COPY quasar-app /app/
