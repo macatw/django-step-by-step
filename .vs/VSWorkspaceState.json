@@ -4,5 +4,6 @@
     "\\.github",
     "\\.github\\workflows"
   ],
+  "SelectedNode": "\\.github\\workflows\\ecr_frontend.yml",
   "PreviewInSolutionExplorer": false
 }

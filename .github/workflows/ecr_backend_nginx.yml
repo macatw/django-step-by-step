@@ -1,6 +1,7 @@
 name: ECR | Backend NGINX - Build Image & Push to ECR
 
 on:
+  workflow_dispatch:
   push:
     tags:
       - "backend/nginx/v*"
